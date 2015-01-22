@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+    font-family: "Arial", serif;
+    font-size: 4rem;
+    text-align: center;
+    background-color: lightgray;
+    
+}
+
+body{
+   text-align:center; 
+    background-color: lightgray;
+    
+}
+
+#pie{
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+    
+}
+
+#chart{
+    margin-left: 10%;
+    margin-right: 10%;
+  
+}
